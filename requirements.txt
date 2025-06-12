@@ -1,0 +1,4 @@
+streamlit
+Pillow
+scikit-image
+streamlit-image-comparison
